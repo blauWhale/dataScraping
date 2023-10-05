@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Super League Leaders</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #bac2d3; /* Background color for the entire page */
+        }
+
+        .table-container {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .table-title {
+            text-align: center;
+            font-size: 1.2rem; /* Larger font size for table titles */
+            margin-bottom: 0.5rem;
+            color: #333; /* Text color for table titles */
+        }
+
+        .table {
+            font-size: 0.8rem;
+            background-color: #bac2d3;
+            border-color: #333;
+        }
+
+        .parent {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            grid-column-gap: 20px;
+            grid-row-gap: 0px;
+            margin: 0 auto; /* Center the grid */
+            max-width: 900px; /* Adjust the max-width as needed */
+        }
+    </style>
+</head>
+<body class="font-sans p-4">
+    <h1 class="text-2xl text-center text-gray-700 mb-4">Super League Leaders</h1>
+
+    <div class="parent">
+
+        <!-- Goals Table -->
+        <div class="table-container">
+            <h2 class="table-title">Goals ⚽</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[1]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Goals per 90 Table -->
+        <div class="table-container">
+            <h2 class="table-title">Goals per 90 🏃</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[2]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Shots per 90 Table -->
+        <div class="table-container">
+            <h2 class="table-title">Shots per 90 🎯</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[3]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Assists Table -->
+        <div class="table-container">
+            <h2 class="table-title">Assists 🤝</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[0]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Clean Sheets Table -->
+        <div class="table-container">
+            <h2 class="table-title">Clean Sheets 🧱</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[6]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Yellow Cards Table -->
+        <div class="table-container">
+            <h2 class="table-title">Yellow Cards 🟨</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[4]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+        
+        <!-- Red Cards Table -->
+        <div class="table-container">
+            <h2 class="table-title">Red Cards 🟥</h2>
+            <table class="w-full table border border-gray-300">
+                {% for row in data[5]['Data'] %}
+                    <tr class="{{ loop.cycle('bg-white', 'bg-gray-100') }}">
+                        <td class="p-2">{{ row[0] }}</td>
+                        <td class="p-2">{{ row[1] }}</td>
+                        <td class="p-2">{{ row[2] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>

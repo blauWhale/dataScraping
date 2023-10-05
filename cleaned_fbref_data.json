@@ -1,0 +1,507 @@
+[
+    {
+        "Title": "Assists",
+        "Data": [
+            [
+                "1.",
+                "Renato Steffen • Lugano",
+                "4"
+            ],
+            [
+                "2.",
+                "Matteo Di Giusto • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Alexandre Jankewitz • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Theo Corbeanu • Grasshopper",
+                "3"
+            ],
+            [
+                "",
+                "Ulisses Garcia • Young Boys",
+                "3"
+            ],
+            [
+                "6.",
+                "Chris Bedia • Servette FC",
+                "2"
+            ],
+            [
+                "",
+                "Ismaël Gharbi • FC Stade Lausanne-Ouchy",
+                "2"
+            ],
+            [
+                "",
+                "Adrián Guerrero • Zürich",
+                "2"
+            ],
+            [
+                "",
+                "Antonio Marchesano • Zürich",
+                "2"
+            ],
+            [
+                "",
+                "Mattia Bottani • Lugano",
+                "2"
+            ],
+            [
+                "",
+                "Rareş Ilie • Lausanne-Sport",
+                "2"
+            ],
+            [
+                "",
+                "Dan Ndoye • Basel",
+                "2"
+            ],
+            [
+                "",
+                "Samuel Ballet • FC Winterthur",
+                "2"
+            ],
+            [
+                "",
+                "Jordi Quintillà • St. Gallen",
+                "2"
+            ],
+            [
+                "",
+                "Jonathan Sabbatini • Lugano",
+                "2"
+            ],
+            [
+                "",
+                "Filip Ugrinic • Young Boys",
+                "2"
+            ],
+            [
+                "",
+                "Anthony Sauthier • Yverdon-Sport",
+                "2"
+            ],
+            [
+                "",
+                "Julian von Moos • St. Gallen",
+                "2"
+            ],
+            [
+                "",
+                "Mergim Qarri • FC Stade Lausanne-Ouchy",
+                "2"
+            ],
+            [
+                "",
+                "Fabian Rohner • Zürich",
+                "2"
+            ],
+            [
+                "",
+                "Samir Ramizi • FC Winterthur",
+                "2"
+            ]
+        ]
+    },
+    {
+        "Title": "Non-Penalty Goals",
+        "Data": [
+            [
+                "1.",
+                "Antonio Marchesano • Zürich",
+                "4"
+            ],
+            [
+                "",
+                "Jonathan Okita • Zürich",
+                "4"
+            ],
+            [
+                "",
+                "Lars Villiger • Luzern",
+                "4"
+            ],
+            [
+                "",
+                "Chris Bedia • Servette FC",
+                "4"
+            ],
+            [
+                "",
+                "Varol Taşar • Yverdon-Sport",
+                "4"
+            ],
+            [
+                "6.",
+                "Žan Celar • Lugano",
+                "3"
+            ],
+            [
+                "",
+                "Joel Monteiro • Young Boys",
+                "3"
+            ],
+            [
+                "",
+                "Samuel Ballet • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Aimen Mahious • Yverdon-Sport",
+                "3"
+            ],
+            [
+                "",
+                "Jean-Pierre Nsame • Young Boys",
+                "3"
+            ],
+            [
+                "",
+                "Shkelqim Vladi • Lugano",
+                "3"
+            ],
+            [
+                "",
+                "Matteo Di Giusto • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Alvyn Sanches • Lausanne-Sport",
+                "3"
+            ],
+            [
+                "",
+                "Fabian Schubert • St. Gallen",
+                "3"
+            ],
+            [
+                "",
+                "Sayfallah Ltaief • FC Winterthur",
+                "3"
+            ]
+        ]
+    },
+    {
+        "Title": "Non-Penalty Goals/90",
+        "Data": [
+            [
+                "1.",
+                "Antonio Marchesano • Zürich",
+                "1.03"
+            ],
+            [
+                "2.",
+                "Jean-Pierre Nsame • Young Boys",
+                "0.87"
+            ],
+            [
+                "3.",
+                "Shkelqim Vladi • Lugano",
+                "0.82"
+            ],
+            [
+                "4.",
+                "Joel Monteiro • Young Boys",
+                "0.73"
+            ],
+            [
+                "5.",
+                "Lars Villiger • Luzern",
+                "0.70"
+            ],
+            [
+                "6.",
+                "Sayfallah Ltaief • FC Winterthur",
+                "0.69"
+            ],
+            [
+                "7.",
+                "Žan Celar • Lugano",
+                "0.68"
+            ],
+            [
+                "8.",
+                "Aimen Mahious • Yverdon-Sport",
+                "0.64"
+            ],
+            [
+                "9.",
+                "Varol Taşar • Yverdon-Sport",
+                "0.60"
+            ],
+            [
+                "10.",
+                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
+                "0.58"
+            ]
+        ]
+    },
+    {
+        "Title": "Shots Total/90",
+        "Data": [
+            [
+                "1.",
+                "Aliou Badara Baldé • Lausanne-Sport",
+                "4.83"
+            ],
+            [
+                "2.",
+                "Florian Danho Seke • FC Stade Lausanne-Ouchy",
+                "4.45"
+            ],
+            [
+                "3.",
+                "Shkelqim Vladi • Lugano",
+                "4.36"
+            ],
+            [
+                "4.",
+                "Antonio Marchesano • Zürich",
+                "3.86"
+            ],
+            [
+                "5.",
+                "Christian Witzig • St. Gallen",
+                "3.68"
+            ],
+            [
+                "6.",
+                "Chris Bedia • Servette FC",
+                "3.53"
+            ],
+            [
+                "7.",
+                "Jean-Pierre Nsame • Young Boys",
+                "3.47"
+            ],
+            [
+                "8.",
+                "Žan Celar • Lugano",
+                "3.42"
+            ],
+            [
+                "9.",
+                "Chadrac Akolo • St. Gallen",
+                "3.39"
+            ],
+            [
+                "10.",
+                "Matteo Di Giusto • FC Winterthur",
+                "3.29"
+            ]
+        ]
+    },
+    {
+        "Title": "Yellow Cards",
+        "Data": [
+            [
+                "1.",
+                "Mohamed Aly Camara • Young Boys",
+                "5"
+            ],
+            [
+                "",
+                "Mattia Zanotti • St. Gallen",
+                "5"
+            ],
+            [
+                "",
+                "Noë Dussenne • Lausanne-Sport",
+                "5"
+            ],
+            [
+                "4.",
+                "Amir Abrashi • Grasshopper",
+                "4"
+            ],
+            [
+                "",
+                "Silvan Sidler • FC Winterthur",
+                "4"
+            ],
+            [
+                "",
+                "Albian Hajdari • Lugano",
+                "4"
+            ],
+            [
+                "",
+                "Mohamed Tijani • Yverdon-Sport",
+                "4"
+            ],
+            [
+                "",
+                "Giovani Bamba • FC Stade Lausanne-Ouchy",
+                "4"
+            ],
+            [
+                "9.",
+                "Julian von Moos • St. Gallen",
+                "3"
+            ],
+            [
+                "",
+                "Daniel Afriyie • Zürich",
+                "3"
+            ],
+            [
+                "",
+                "Kristers Tobers • Grasshopper",
+                "3"
+            ],
+            [
+                "",
+                "Samuel Ballet • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Basil Stillhart • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Abdallah Ali Mohamed • FC Stade Lausanne-Ouchy",
+                "3"
+            ],
+            [
+                "",
+                "Nicky Medja • Luzern",
+                "3"
+            ],
+            [
+                "",
+                "Alexandre Jankewitz • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Jakub Kadák • Luzern",
+                "3"
+            ],
+            [
+                "",
+                "Anel Husic • Lausanne-Sport",
+                "3"
+            ],
+            [
+                "",
+                "Valon Hamdiju • FC Stade Lausanne-Ouchy",
+                "3"
+            ],
+            [
+                "",
+                "Ismajl Beka • Luzern",
+                "3"
+            ],
+            [
+                "",
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "3"
+            ],
+            [
+                "",
+                "Jordi Quintillà • St. Gallen",
+                "3"
+            ]
+        ]
+    },
+    {
+        "Title": "Red Cards",
+        "Data": [
+            [
+                "1.",
+                "Arnau Comas • Basel",
+                "1"
+            ],
+            [
+                "",
+                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
+                "1"
+            ],
+            [
+                "",
+                "Thierno Barry • Basel",
+                "1"
+            ],
+            [
+                "",
+                "Nicky Medja • Luzern",
+                "1"
+            ],
+            [
+                "",
+                "Jhon Espinoza • Lugano",
+                "1"
+            ],
+            [
+                "",
+                "Mattia Zanotti • St. Gallen",
+                "1"
+            ],
+            [
+                "",
+                "Mohamed Tijani • Yverdon-Sport",
+                "1"
+            ],
+            [
+                "",
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "1"
+            ]
+        ]
+    },
+    {
+        "Title": "Clean Sheets",
+        "Data": [
+            [
+                "1.",
+                "Yanick Brecher • Zürich",
+                "4"
+            ],
+            [
+                "2.",
+                "Pascal Loretz • Luzern",
+                "3"
+            ],
+            [
+                "3.",
+                "Amir Saipi • Lugano",
+                "2"
+            ],
+            [
+                "",
+                "Anthony Racioppi • Young Boys",
+                "2"
+            ],
+            [
+                "5.",
+                "Karlo Letica • Lausanne-Sport",
+                "1"
+            ],
+            [
+                "",
+                "Dany da Silva • FC Stade Lausanne-Ouchy",
+                "1"
+            ],
+            [
+                "",
+                "Sebastian Breza • Yverdon-Sport",
+                "1"
+            ],
+            [
+                "",
+                "Markus Kuster • FC Winterthur",
+                "1"
+            ]
+        ]
+    }
+]
