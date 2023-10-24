@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="content">
+        {{ table_html | safe }}
+    </div>
+    
+    <script>
+        var partyData = {{ party_data | safe }};
+        
+        var data = [{
+            values: partyData.map(function(row) { return row[1]; }),
+            labels: partyData.map(function(row) { return row[0]; }),
+            type: 'pie',
+            hoverinfo: 'label+percent',
+        }];
+        
+        var layout = {
+            showlegend: false,
+        };
+        
+        Plotly.newPlot('pie-chart', data, layout);
+    </script>
+</body>
+</html>

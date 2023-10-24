@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Prices</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <style>
+        body {
+            padding: 20px;
+        }
+        .price-card {
+            margin-bottom: 20px;
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+        .product-name {
+            font-size: 1.5rem; /* Larger font size for product names */
+            color: #333; /* Darker text color for product names */
+        }
+        .price-value {
+            font-size: 2rem; /* Larger font size for prices */
+            color: #2f00ff; /* Blue text color for prices */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="title is-2 has-text-centered">Product Prices</h1>
+    {% for product, data in data["Products"].items() %}
+    <div class="price-card">
+        <h2 class="product-name">
+            {{ product }}
+        </h2>
+        <p class="price-value">
+            <a href="{{ data["URL"] }}" target="_blank">{{ data["Price"] }}</a>
+        </p>
+    </div>
+    {% endfor %}
+    <p class="subtitle is-5">Data scraped on: {{ data["Timestamp"] }}</p>
+</body>
+</html>
