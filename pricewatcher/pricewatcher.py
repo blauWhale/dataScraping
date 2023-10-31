@@ -2,9 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
-
 from flask import Flask, render_template
-import json
+
 
 # Define user-agent header to mimic a web browser
 headers = {

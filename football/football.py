@@ -2,12 +2,10 @@ import requests
 from bs4 import BeautifulSoup, Comment
 import pandas as pd
 import json
-
-
 from flask import Flask, render_template, jsonify
-import json
 
-import json
+
+
 
 # Replace the URL with the actual URL of the page you want to scrape
 url = "https://fbref.com/en/comps/57/Swiss-Super-League-Stats"
