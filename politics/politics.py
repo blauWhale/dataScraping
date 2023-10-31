@@ -21,6 +21,12 @@ party_and_percentage_data = []
 # Flag to check if we found the first table after the specified h2 element
 found_first_table = False
 
+# Function to clean the percentage values
+def clean_percentage(percentage):
+    # Extract numeric part and convert to float or use 0.0 as the default
+    numeric_part = ''.join(filter(lambda x: x.isdigit() or x in '.-', percentage))
+    return float(numeric_part) if numeric_part else 0.0
+
 # Iterate through the h2 elements
 for h2_element in h2_elements:
     if "Kanton Zürich" in h2_element.text:
@@ -31,10 +37,11 @@ for h2_element in h2_elements:
             rows = table.find_all('tr')
             for row in rows:
                 cols = row.find_all(['td', 'th'])
-                # Extract the "Party" and "Votes Percentage" columns
-                party = cols[0].text.strip()
-                percentage = cols[2].text.strip()
-                party_and_percentage_data.append([party, percentage])
+                if len(cols) >= 3:  # Ensure that the row has at least 3 columns
+                    # Extract the "Party" and "Votes Percentage" columns
+                    party = cols[0].text.strip()
+                    percentage = clean_percentage(cols[2].text.strip())
+                    party_and_percentage_data.append([party, percentage])
 
 # Create a DataFrame from the extracted data
 column_names = ['Party', 'Votes Percentage']
@@ -44,15 +51,10 @@ df = pd.DataFrame(party_and_percentage_data, columns=column_names)
 df = df.iloc[1:]
 
 @app.route('/')
-def display_table():
-    # Render the DataFrame as an HTML table
-    table_html = df.to_html(classes='table table-hover', index=False, escape=False)
-    
-    # Get the party names and percentage data as lists for JavaScript
-    party_names = df['Party'].tolist()
-    percentage_data = df['Votes Percentage'].tolist()
-
-    return render_template('index.html', table_html=table_html, party_names=party_names, percentage_data=percentage_data)
+def pie_chart():
+    # Assuming df contains your data
+    data = df.to_dict(orient='list')
+    return render_template('index.html', data=data)
 
 if __name__ == '__main__':
     app.run(debug=True)

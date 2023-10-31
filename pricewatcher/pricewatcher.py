@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 
+from flask import Flask, render_template
+import json
+
 # Define user-agent header to mimic a web browser
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
@@ -56,3 +59,17 @@ with open("price_data.json", "w") as json_file:
     json.dump(output_data, json_file, indent=4)
 
 print("Data saved to price_data.json")
+
+
+app = Flask(__name__)
+
+# Load your data from the JSON file
+with open('price_data.json', 'r', encoding='utf-8') as json_file:
+    data = json.load(json_file)
+
+@app.route('/')
+def display_data():
+    return render_template('index.html', data=data)
+
+if __name__ == '__main__':
+    app.run(debug=True)

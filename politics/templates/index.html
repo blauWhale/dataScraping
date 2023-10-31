@@ -1,28 +1,100 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <!-- Include a custom font from Google Fonts (change 'Lato' to your preferred font) -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    
+    <style>
+        /* Define a CSS class for the table */
+        .data-table {
+            border-collapse: collapse;
+            width: 100%;
+            max-width: 600px; /* Limit the table width */
+            font-family: 'Lato', sans-serif; /* Use the custom font */
+        }
+
+        .data-table th, .data-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .data-table th {
+            background-color: #f2f2f2;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .data-table tr:nth-child(even) {
+            background-color: #f7f7f7;
+        }
+
+        .data-table tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+        /* Custom styles for the layout */
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .left {
+            flex: 1;
+        }
+
+        .right {
+            flex: 1;
+        }
+    </style>
 </head>
 <body>
     <div id="content">
         {{ table_html | safe }}
     </div>
+
+    <div id="content">
+        <div class="container">
+            <div class="left">
+                <table class="data-table">
+                    <tr>
+                        <th>Party</th>
+                        <th>Votes Percentage</th>
+                    </tr>
+                    {% for i in range(data['Party']|length) %}
+                    <tr>
+                        <td>{{ data['Party'][i] }}</td>
+                        <td>{{ data['Votes Percentage'][i] / 10 }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+            <div class="right">
+                <div id="piechart" style="width: 900px; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
     
-    <script>
-        var partyData = {{ party_data | safe }};
-        
-        var data = [{
-            values: partyData.map(function(row) { return row[1]; }),
-            labels: partyData.map(function(row) { return row[0]; }),
-            type: 'pie',
-            hoverinfo: 'label+percent',
-        }];
-        
-        var layout = {
-            showlegend: false,
-        };
-        
-        Plotly.newPlot('pie-chart', data, layout);
+    <script type="text/javascript">
+        google.charts.load("current", { packages: ["corechart"] });
+        google.charts.setOnLoadCallback(drawChart);
+      
+        function drawChart() {
+            var data = google.visualization.arrayToDataTable([
+                ["Party", "Votes Percentage"],
+                {% for i in range(data['Party']|length) %}
+                    ["{{ data['Party'][i] }}", {{ data['Votes Percentage'][i] }}]{% if not loop.last %},{% endif %}
+                {% endfor %}
+            ]);
+      
+            var options = {
+                title: 'Anteil Stimmer Kanton Zürich 2023',
+                is3D: true,
+            };
+      
+            var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+            chart.draw(data, options);
+        }
     </script>
 </body>
 </html>

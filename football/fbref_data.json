@@ -4,6 +4,21 @@
         "Data": [
             [
                 "1.",
+                "Jonathan Okita • Zürich",
+                "6"
+            ],
+            [
+                "",
+                "Chris Bedia • Servette FC",
+                "6"
+            ],
+            [
+                "3.",
+                "Sayfallah Ltaief • FC Winterthur",
+                "5"
+            ],
+            [
+                "",
                 "Matteo Di Giusto • FC Winterthur",
                 "5"
             ],
@@ -14,22 +29,17 @@
             ],
             [
                 "",
-                "Jonathan Okita • Zürich",
-                "5"
-            ],
-            [
-                "",
                 "Antonio Marchesano • Zürich",
                 "5"
             ],
             [
                 "",
-                "Chris Bedia • Servette FC",
+                "Mamadou Kaly Sene • Lausanne-Sport",
                 "5"
             ],
             [
-                "6.",
-                "Sayfallah Ltaief • FC Winterthur",
+                "8.",
+                "Tsiy-William Ndenge • Grasshopper",
                 "4"
             ],
             [
@@ -51,6 +61,11 @@
                 "",
                 "Lars Villiger • Luzern",
                 "4"
+            ],
+            [
+                "",
+                "Alvyn Sanches • Lausanne-Sport",
+                "4"
             ]
         ]
     },
@@ -60,51 +75,51 @@
             [
                 "1.",
                 "Jean-Pierre Nsame • Young Boys",
-                "1.02"
+                "0.87"
             ],
             [
                 "2.",
-                "Antonio Marchesano • Zürich",
-                "0.88"
-            ],
-            [
-                "3.",
                 "Cedric Itten • Young Boys",
                 "0.85"
             ],
             [
-                "4.",
+                "3.",
                 "Sayfallah Ltaief • FC Winterthur",
-                "0.71"
+                "0.77"
+            ],
+            [
+                "4.",
+                "Antonio Marchesano • Zürich",
+                "0.76"
             ],
             [
                 "5.",
-                "Shkelqim Vladi • Lugano",
-                "0.69"
+                "Yanis Cimignani • Lugano",
+                "0.70"
             ],
             [
                 "6.",
-                "Matteo Di Giusto • FC Winterthur",
+                "Chris Bedia • Servette FC",
                 "0.66"
             ],
             [
                 "7.",
-                "Chris Bedia • Servette FC",
-                "0.61"
+                "Matteo Di Giusto • FC Winterthur",
+                "0.62"
             ],
             [
                 "8.",
-                "Joel Monteiro • Young Boys",
-                "0.54"
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "0.61"
             ],
             [
                 "9.",
-                "Žan Celar • Lugano",
-                "0.53"
+                "Shkelqim Vladi • Lugano",
+                "0.56"
             ],
             [
-                "",
-                "Lars Villiger • Luzern",
+                "10.",
+                "Jonathan Okita • Zürich",
                 "0.53"
             ]
         ]
@@ -114,17 +129,47 @@
         "Data": [
             [
                 "1.",
+                "Renato Steffen • Lugano",
+                "5"
+            ],
+            [
+                "",
                 "Theo Corbeanu • Grasshopper",
                 "5"
             ],
             [
-                "2.",
-                "Renato Steffen • Lugano",
-                "4"
+                "3.",
+                "Pius Dorn • Luzern",
+                "3"
             ],
             [
-                "3.",
+                "",
+                "Julian von Moos • St. Gallen",
+                "3"
+            ],
+            [
+                "",
                 "Christian Witzig • St. Gallen",
+                "3"
+            ],
+            [
+                "",
+                "Samuel Ballet • FC Winterthur",
+                "3"
+            ],
+            [
+                "",
+                "Ulisses Garcia • Young Boys",
+                "3"
+            ],
+            [
+                "",
+                "Antonio Marchesano • Zürich",
+                "3"
+            ],
+            [
+                "",
+                "Filip Ugrinic • Young Boys",
                 "3"
             ],
             [
@@ -139,27 +184,7 @@
             ],
             [
                 "",
-                "Filip Ugrinic • Young Boys",
-                "3"
-            ],
-            [
-                "",
-                "Antonio Marchesano • Zürich",
-                "3"
-            ],
-            [
-                "",
-                "Samuel Ballet • FC Winterthur",
-                "3"
-            ],
-            [
-                "",
-                "Julian von Moos • St. Gallen",
-                "3"
-            ],
-            [
-                "",
-                "Ulisses Garcia • Young Boys",
+                "Varol Taşar • Yverdon-Sport",
                 "3"
             ]
         ]
@@ -170,52 +195,52 @@
             [
                 "1.",
                 "Ulisses Garcia • Young Boys",
-                "0.66"
+                "0.64"
             ],
             [
                 "2.",
                 "Theo Corbeanu • Grasshopper",
-                "0.63"
+                "0.60"
             ],
             [
                 "3.",
-                "Antonio Marchesano • Zürich",
-                "0.53"
+                "Renato Steffen • Lugano",
+                "0.57"
             ],
             [
                 "4.",
-                "Ismaël Gharbi • FC Stade Lausanne-Ouchy",
-                "0.50"
+                "Antonio Marchesano • Zürich",
+                "0.46"
             ],
             [
                 "5.",
-                "Renato Steffen • Lugano",
-                "0.48"
+                "Fabian Rohner • Zürich",
+                "0.42"
             ],
             [
-                "6.",
-                "Fabian Rohner • Zürich",
-                "0.43"
+                "",
+                "Ismaël Gharbi • FC Stade Lausanne-Ouchy",
+                "0.42"
             ],
             [
                 "7.",
-                "Matteo Di Giusto • FC Winterthur",
+                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
                 "0.40"
             ],
             [
                 "8.",
-                "Samuel Ballet • FC Winterthur",
-                "0.38"
-            ],
-            [
-                "9.",
-                "Filip Ugrinic • Young Boys",
+                "Matteo Di Giusto • FC Winterthur",
                 "0.37"
             ],
             [
                 "",
                 "Mattia Bottani • Lugano",
                 "0.37"
+            ],
+            [
+                "10.",
+                "Samuel Ballet • FC Winterthur",
+                "0.36"
             ]
         ]
     },
@@ -233,18 +258,43 @@
                 "8"
             ],
             [
-                "3.",
+                "",
                 "Chris Bedia • Servette FC",
-                "7"
+                "8"
             ],
             [
                 "4.",
-                "Theo Corbeanu • Grasshopper",
+                "Jonathan Okita • Zürich",
+                "7"
+            ],
+            [
+                "",
+                "Varol Taşar • Yverdon-Sport",
+                "7"
+            ],
+            [
+                "",
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "7"
+            ],
+            [
+                "",
+                "Renato Steffen • Lugano",
+                "7"
+            ],
+            [
+                "8.",
+                "Sayfallah Ltaief • FC Winterthur",
                 "6"
             ],
             [
                 "",
-                "Jonathan Okita • Zürich",
+                "Jean-Pierre Nsame • Young Boys",
+                "6"
+            ],
+            [
+                "",
+                "Theo Corbeanu • Grasshopper",
                 "6"
             ],
             [
@@ -254,33 +304,8 @@
             ],
             [
                 "",
-                "Varol Taşar • Yverdon-Sport",
-                "6"
-            ],
-            [
-                "",
-                "Renato Steffen • Lugano",
-                "6"
-            ],
-            [
-                "",
                 "Lars Villiger • Luzern",
                 "6"
-            ],
-            [
-                "10.",
-                "Sayfallah Ltaief • FC Winterthur",
-                "5"
-            ],
-            [
-                "",
-                "Jean-Pierre Nsame • Young Boys",
-                "5"
-            ],
-            [
-                "",
-                "Cedric Itten • Young Boys",
-                "5"
             ]
         ]
     },
@@ -290,57 +315,52 @@
             [
                 "1.",
                 "Antonio Marchesano • Zürich",
-                "1.41"
+                "1.22"
             ],
             [
                 "2.",
-                "Matteo Di Giusto • FC Winterthur",
-                "1.06"
-            ],
-            [
-                "",
                 "Cedric Itten • Young Boys",
                 "1.06"
             ],
             [
-                "4.",
+                "3.",
                 "Jean-Pierre Nsame • Young Boys",
-                "1.02"
+                "1.05"
+            ],
+            [
+                "4.",
+                "Matteo Di Giusto • FC Winterthur",
+                "0.99"
             ],
             [
                 "5.",
                 "Sayfallah Ltaief • FC Winterthur",
-                "0.88"
+                "0.92"
             ],
             [
-                "",
-                "Ulisses Garcia • Young Boys",
+                "6.",
+                "Chris Bedia • Servette FC",
                 "0.88"
             ],
             [
                 "7.",
-                "Fabian Rohner • Zürich",
+                "Mamadou Kaly Sene • Lausanne-Sport",
                 "0.86"
+            ],
+            [
+                "8.",
+                "Fabian Rohner • Zürich",
+                "0.85"
             ],
             [
                 "",
-                "Chris Bedia • Servette FC",
-                "0.86"
-            ],
-            [
-                "9.",
-                "Lars Villiger • Luzern",
-                "0.79"
+                "Ulisses Garcia • Young Boys",
+                "0.85"
             ],
             [
                 "10.",
-                "Theo Corbeanu • Grasshopper",
-                "0.76"
-            ],
-            [
-                "",
-                "Samuel Ballet • FC Winterthur",
-                "0.76"
+                "Renato Steffen • Lugano",
+                "0.80"
             ]
         ]
     },
@@ -349,22 +369,27 @@
         "Data": [
             [
                 "1.",
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "3"
+            ],
+            [
+                "2.",
                 "Enzo Crivelli • Servette FC",
-                "1"
+                "2"
             ],
             [
                 "",
+                "Jonathan Okita • Zürich",
+                "2"
+            ],
+            [
+                "4.",
                 "Jean-Pierre Nsame • Young Boys",
                 "1"
             ],
             [
                 "",
                 "Theo Corbeanu • Grasshopper",
-                "1"
-            ],
-            [
-                "",
-                "Jonathan Okita • Zürich",
                 "1"
             ],
             [
@@ -399,11 +424,6 @@
             ],
             [
                 "",
-                "Mamadou Kaly Sene • Lausanne-Sport",
-                "1"
-            ],
-            [
-                "",
                 "Roman Buess • FC Winterthur",
                 "1"
             ],
@@ -429,6 +449,11 @@
         "Data": [
             [
                 "1.",
+                "Sayfallah Ltaief • FC Winterthur",
+                "5"
+            ],
+            [
+                "",
                 "Matteo Di Giusto • FC Winterthur",
                 "5"
             ],
@@ -438,18 +463,23 @@
                 "5"
             ],
             [
-                "3.",
-                "Sayfallah Ltaief • FC Winterthur",
-                "4"
+                "",
+                "Chris Bedia • Servette FC",
+                "5"
             ],
             [
-                "",
+                "5.",
                 "Jean-Pierre Nsame • Young Boys",
                 "4"
             ],
             [
                 "",
                 "Jonathan Okita • Zürich",
+                "4"
+            ],
+            [
+                "",
+                "Tsiy-William Ndenge • Grasshopper",
                 "4"
             ],
             [
@@ -459,68 +489,13 @@
             ],
             [
                 "",
-                "Chris Bedia • Servette FC",
-                "4"
-            ],
-            [
-                "",
                 "Lars Villiger • Luzern",
                 "4"
             ],
             [
-                "9.",
-                "Tsiy-William Ndenge • Grasshopper",
-                "3"
-            ],
-            [
-                "",
-                "Samuel Ballet • FC Winterthur",
-                "3"
-            ],
-            [
-                "",
-                "Žan Celar • Lugano",
-                "3"
-            ],
-            [
-                "",
-                "Albert Vallci • St. Gallen",
-                "3"
-            ],
-            [
-                "",
-                "Aldin Turkes • FC Winterthur",
-                "3"
-            ],
-            [
-                "",
-                "Aimen Mahious • Yverdon-Sport",
-                "3"
-            ],
-            [
-                "",
-                "Shkelqim Vladi • Lugano",
-                "3"
-            ],
-            [
-                "",
-                "Joel Monteiro • Young Boys",
-                "3"
-            ],
-            [
-                "",
-                "Cedric Itten • Young Boys",
-                "3"
-            ],
-            [
                 "",
                 "Alvyn Sanches • Lausanne-Sport",
-                "3"
-            ],
-            [
-                "",
-                "Fabian Schubert • St. Gallen",
-                "3"
+                "4"
             ]
         ]
     },
@@ -529,53 +504,53 @@
         "Data": [
             [
                 "1.",
-                "Antonio Marchesano • Zürich",
-                "0.88"
+                "Sayfallah Ltaief • FC Winterthur",
+                "0.77"
             ],
             [
                 "2.",
-                "Jean-Pierre Nsame • Young Boys",
-                "0.81"
+                "Antonio Marchesano • Zürich",
+                "0.76"
             ],
             [
                 "3.",
-                "Sayfallah Ltaief • FC Winterthur",
-                "0.71"
+                "Yanis Cimignani • Lugano",
+                "0.70"
             ],
             [
-                "4.",
-                "Shkelqim Vladi • Lugano",
-                "0.69"
+                "",
+                "Jean-Pierre Nsame • Young Boys",
+                "0.70"
             ],
             [
                 "5.",
-                "Matteo Di Giusto • FC Winterthur",
-                "0.66"
-            ],
-            [
-                "6.",
                 "Cedric Itten • Young Boys",
                 "0.64"
             ],
             [
+                "6.",
+                "Matteo Di Giusto • FC Winterthur",
+                "0.62"
+            ],
+            [
                 "7.",
-                "Joel Monteiro • Young Boys",
-                "0.54"
+                "Shkelqim Vladi • Lugano",
+                "0.56"
             ],
             [
                 "8.",
+                "Chris Bedia • Servette FC",
+                "0.55"
+            ],
+            [
+                "9.",
                 "Lars Villiger • Luzern",
-                "0.53"
+                "0.52"
             ],
             [
                 "",
-                "Žan Celar • Lugano",
-                "0.53"
-            ],
-            [
-                "10.",
-                "Chris Bedia • Servette FC",
-                "0.49"
+                "Joel Monteiro • Young Boys",
+                "0.52"
             ]
         ]
     },
@@ -585,52 +560,57 @@
             [
                 "1.",
                 "Antonio Marchesano • Zürich",
-                "1.41"
+                "1.22"
             ],
             [
                 "2.",
                 "Matteo Di Giusto • FC Winterthur",
-                "1.06"
+                "0.99"
             ],
             [
                 "3.",
                 "Sayfallah Ltaief • FC Winterthur",
-                "0.88"
+                "0.92"
             ],
             [
-                "",
-                "Ulisses Garcia • Young Boys",
-                "0.88"
+                "4.",
+                "Jean-Pierre Nsame • Young Boys",
+                "0.87"
             ],
             [
                 "5.",
                 "Fabian Rohner • Zürich",
-                "0.86"
+                "0.85"
             ],
             [
-                "6.",
+                "",
+                "Ulisses Garcia • Young Boys",
+                "0.85"
+            ],
+            [
+                "",
                 "Cedric Itten • Young Boys",
                 "0.85"
             ],
             [
-                "7.",
-                "Jean-Pierre Nsame • Young Boys",
-                "0.81"
-            ],
-            [
                 "8.",
-                "Lars Villiger • Luzern",
-                "0.79"
+                "Renato Steffen • Lugano",
+                "0.80"
             ],
             [
                 "9.",
-                "Samuel Ballet • FC Winterthur",
-                "0.76"
+                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
+                "0.79"
             ],
             [
                 "10.",
                 "Chris Bedia • Servette FC",
-                "0.73"
+                "0.77"
+            ],
+            [
+                "",
+                "Lars Villiger • Luzern",
+                "0.77"
             ]
         ]
     },
@@ -640,52 +620,52 @@
             [
                 "1.",
                 "Christian Witzig • St. Gallen",
-                "37"
+                "40"
             ],
             [
                 "2.",
                 "Jonathan Okita • Zürich",
-                "34"
+                "37"
             ],
             [
                 "3.",
                 "Florian Danho Seke • FC Stade Lausanne-Ouchy",
-                "29"
+                "31"
             ],
             [
                 "4.",
-                "Matteo Di Giusto • FC Winterthur",
-                "28"
+                "Chris Bedia • Servette FC",
+                "30"
             ],
             [
                 "5.",
-                "Chris Bedia • Servette FC",
-                "27"
+                "Matteo Di Giusto • FC Winterthur",
+                "29"
             ],
             [
                 "6.",
+                "Samuel Ballet • FC Winterthur",
+                "28"
+            ],
+            [
+                "7.",
                 "Daniel Afriyie • Zürich",
-                "25"
+                "26"
             ],
             [
                 "",
                 "Dereck Kutesa • Servette FC",
-                "25"
-            ],
-            [
-                "",
-                "Samuel Ballet • FC Winterthur",
-                "25"
+                "26"
             ],
             [
                 "9.",
-                "Aliou Badara Baldé • Lausanne-Sport",
-                "23"
+                "Mamadou Kaly Sene • Lausanne-Sport",
+                "25"
             ],
             [
                 "",
-                "Alban Ajdini • FC Stade Lausanne-Ouchy",
-                "23"
+                "Jordi Quintillà • St. Gallen",
+                "25"
             ]
         ]
     },
@@ -700,47 +680,47 @@
             [
                 "2.",
                 "Florian Danho Seke • FC Stade Lausanne-Ouchy",
-                "4.30"
+                "4.00"
             ],
             [
                 "3.",
                 "Kevin Omoruyi • Yverdon-Sport",
-                "3.97"
+                "3.71"
             ],
             [
                 "4.",
                 "Matteo Di Giusto • FC Winterthur",
-                "3.71"
+                "3.60"
             ],
             [
                 "5.",
-                "Shkelqim Vladi • Lugano",
-                "3.66"
+                "Antonio Marchesano • Zürich",
+                "3.50"
             ],
             [
                 "6.",
-                "Antonio Marchesano • Zürich",
-                "3.53"
+                "Bastien Toma • St. Gallen",
+                "3.40"
             ],
             [
                 "7.",
-                "Alban Ajdini • FC Stade Lausanne-Ouchy",
+                "Sayfallah Ltaief • FC Winterthur",
                 "3.38"
             ],
             [
-                "",
+                "8.",
                 "Christian Witzig • St. Gallen",
-                "3.38"
+                "3.37"
             ],
             [
                 "9.",
-                "Sayfallah Ltaief • FC Winterthur",
-                "3.36"
+                "Samuel Ballet • FC Winterthur",
+                "3.32"
             ],
             [
                 "10.",
-                "Chris Bedia • Servette FC",
-                "3.31"
+                "Žan Celar • Lugano",
+                "3.30"
             ]
         ]
     },
@@ -753,23 +733,33 @@
                 "18"
             ],
             [
-                "2.",
+                "",
+                "Chris Bedia • Servette FC",
+                "18"
+            ],
+            [
+                "3.",
                 "Christian Witzig • St. Gallen",
                 "17"
             ],
             [
-                "3.",
-                "Chris Bedia • Servette FC",
-                "16"
-            ],
-            [
                 "4.",
                 "Jonathan Okita • Zürich",
-                "11"
+                "12"
             ],
             [
                 "5.",
+                "Samuel Ballet • FC Winterthur",
+                "10"
+            ],
+            [
+                "",
                 "Alban Ajdini • FC Stade Lausanne-Ouchy",
+                "10"
+            ],
+            [
+                "",
+                "Mamadou Kaly Sene • Lausanne-Sport",
                 "10"
             ],
             [
@@ -778,8 +768,8 @@
                 "10"
             ],
             [
-                "7.",
-                "Samuel Ballet • FC Winterthur",
+                "9.",
+                "Kevin Omoruyi • Yverdon-Sport",
                 "9"
             ],
             [
@@ -788,34 +778,19 @@
                 "9"
             ],
             [
-                "9.",
-                "Kevin Omoruyi • Yverdon-Sport",
-                "8"
-            ],
-            [
                 "",
                 "Varol Taşar • Yverdon-Sport",
-                "8"
+                "9"
             ],
             [
                 "",
                 "Antonio Marchesano • Zürich",
-                "8"
-            ],
-            [
-                "",
-                "Aldin Turkes • FC Winterthur",
-                "8"
-            ],
-            [
-                "",
-                "Max Meyer • Luzern",
-                "8"
+                "9"
             ],
             [
                 "",
                 "Alvyn Sanches • Lausanne-Sport",
-                "8"
+                "9"
             ]
         ]
     },
@@ -825,12 +800,12 @@
             [
                 "1.",
                 "Matteo Di Giusto • FC Winterthur",
-                "2.39"
+                "2.24"
             ],
             [
                 "2.",
                 "Chris Bedia • Servette FC",
-                "1.96"
+                "1.97"
             ],
             [
                 "3.",
@@ -840,37 +815,37 @@
             [
                 "4.",
                 "Kevin Omoruyi • Yverdon-Sport",
-                "1.87"
+                "1.85"
             ],
             [
                 "5.",
                 "Chadrac Akolo • St. Gallen",
-                "1.67"
+                "1.79"
             ],
             [
                 "6.",
-                "Shkelqim Vladi • Lugano",
-                "1.60"
+                "Yanis Cimignani • Lugano",
+                "1.63"
             ],
             [
                 "7.",
-                "Christian Witzig • St. Gallen",
-                "1.55"
+                "Jérémy Guillemenot • Servette FC",
+                "1.47"
             ],
             [
                 "8.",
-                "Jérémy Guillemenot • Servette FC",
-                "1.48"
+                "Christian Witzig • St. Gallen",
+                "1.43"
             ],
             [
-                "",
-                "Florian Danho Seke • FC Stade Lausanne-Ouchy",
-                "1.48"
+                "9.",
+                "Antonio Marchesano • Zürich",
+                "1.37"
             ],
             [
                 "10.",
-                "Alban Ajdini • FC Stade Lausanne-Ouchy",
-                "1.47"
+                "Shkelqim Vladi • Lugano",
+                "1.30"
             ]
         ]
     },
@@ -884,37 +859,42 @@
             ],
             [
                 "2.",
-                "Yannick Schmid • FC Winterthur",
-                "66.7"
-            ],
-            [
-                "3.",
-                "Matteo Di Giusto • FC Winterthur",
-                "64.3"
-            ],
-            [
-                "4.",
-                "Tsiy-William Ndenge • Grasshopper",
-                "62.5"
-            ],
-            [
-                "5.",
                 "Maurice Malone • Basel",
-                "60.0"
+                "66.7"
             ],
             [
                 "",
                 "Mihailo Stevanovic • St. Gallen",
-                "60.0"
+                "66.7"
             ],
             [
                 "",
+                "Tsiy-William Ndenge • Grasshopper",
+                "66.7"
+            ],
+            [
+                "",
+                "Yannick Schmid • FC Winterthur",
+                "66.7"
+            ],
+            [
+                "6.",
+                "Sofyan Chader • Luzern",
+                "62.5"
+            ],
+            [
+                "7.",
+                "Matteo Di Giusto • FC Winterthur",
+                "62.1"
+            ],
+            [
+                "8.",
                 "Nikolaj Moller • St. Gallen",
                 "60.0"
             ],
             [
                 "",
-                "Sofyan Chader • Luzern",
+                "Basil Stillhart • FC Winterthur",
                 "60.0"
             ],
             [
@@ -923,9 +903,9 @@
                 "60.0"
             ],
             [
-                "10.",
+                "",
                 "Chris Bedia • Servette FC",
-                "59.3"
+                "60.0"
             ]
         ]
     },
@@ -934,62 +914,57 @@
         "Data": [
             [
                 "1.",
-                "Evans Maurin • Yverdon-Sport",
-                "0.40"
+                "Tsiy-William Ndenge • Grasshopper",
+                "0.44"
             ],
             [
-                "",
+                "2.",
                 "Fabian Rohner • Zürich",
                 "0.40"
             ],
             [
-                "",
+                "3.",
                 "Sofyan Chader • Luzern",
-                "0.40"
-            ],
-            [
-                "",
-                "Mihailo Stevanovic • St. Gallen",
-                "0.40"
-            ],
-            [
-                "5.",
-                "Tsiy-William Ndenge • Grasshopper",
                 "0.38"
             ],
             [
-                "6.",
-                "Fabian Schubert • St. Gallen",
-                "0.30"
+                "4.",
+                "Mihailo Stevanovic • St. Gallen",
+                "0.33"
             ],
             [
-                "7.",
-                "Lars Villiger • Luzern",
-                "0.29"
-            ],
-            [
-                "",
+                "5.",
                 "Awer Mabil • Grasshopper",
                 "0.29"
             ],
             [
-                "9.",
-                "Jean-Pierre Nsame • Young Boys",
+                "",
+                "Evans Maurin • Yverdon-Sport",
+                "0.29"
+            ],
+            [
+                "",
+                "Boris Cespedes • Yverdon-Sport",
+                "0.29"
+            ],
+            [
+                "8.",
+                "Fabian Schubert • St. Gallen",
+                "0.27"
+            ],
+            [
+                "",
+                "Lars Villiger • Luzern",
                 "0.27"
             ],
             [
                 "10.",
-                "Antonio Marchesano • Zürich",
+                "Yanis Cimignani • Lugano",
                 "0.25"
             ],
             [
                 "",
-                "Fabian Frei • Basel",
-                "0.25"
-            ],
-            [
-                "",
-                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
+                "Jean-Pierre Nsame • Young Boys",
                 "0.25"
             ]
         ]
@@ -999,21 +974,26 @@
         "Data": [
             [
                 "1.",
-                "Fabian Schubert • St. Gallen",
-                "1.00"
-            ],
-            [
-                "",
-                "Evans Maurin • Yverdon-Sport",
-                "1.00"
-            ],
-            [
-                "",
                 "Lars Villiger • Luzern",
                 "1.00"
             ],
             [
+                "",
+                "Filip Ugrinic • Young Boys",
+                "1.00"
+            ],
+            [
+                "",
+                "Boris Cespedes • Yverdon-Sport",
+                "1.00"
+            ],
+            [
                 "4.",
+                "Fabian Schubert • St. Gallen",
+                "0.75"
+            ],
+            [
+                "",
                 "Aimen Mahious • Yverdon-Sport",
                 "0.75"
             ],
@@ -1023,13 +1003,8 @@
                 "0.75"
             ],
             [
-                "6.",
+                "7.",
                 "Fabian Rohner • Zürich",
-                "0.67"
-            ],
-            [
-                "",
-                "Sofyan Chader • Luzern",
                 "0.67"
             ],
             [
@@ -1044,32 +1019,22 @@
             ],
             [
                 "",
-                "Mihailo Stevanovic • St. Gallen",
-                "0.67"
-            ],
-            [
-                "",
-                "Christopher Lungoyi • Yverdon-Sport",
-                "0.67"
-            ],
-            [
-                "",
-                "Noë Dussenne • Lausanne-Sport",
-                "0.67"
-            ],
-            [
-                "",
                 "Ardon Jashari • Luzern",
                 "0.67"
             ],
             [
                 "",
-                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
+                "Nikola Katić • Zürich",
                 "0.67"
             ],
             [
                 "",
-                "Nikola Katić • Zürich",
+                "Tsiy-William Ndenge • Grasshopper",
+                "0.67"
+            ],
+            [
+                "",
+                "Elies Mahmoud • FC Stade Lausanne-Ouchy",
                 "0.67"
             ]
         ]
@@ -1080,57 +1045,52 @@
             [
                 "1.",
                 "Miroslav Stevanović • Servette FC",
-                "74"
+                "82"
             ],
             [
                 "2.",
                 "Martin Frýdek • Luzern",
-                "69"
+                "71"
             ],
             [
                 "3.",
-                "Theo Corbeanu • Grasshopper",
-                "59"
+                "Jonathan Okita • Zürich",
+                "65"
             ],
             [
                 "4.",
-                "Christian Witzig • St. Gallen",
-                "58"
+                "Theo Corbeanu • Grasshopper",
+                "63"
             ],
             [
                 "5.",
-                "Jonathan Okita • Zürich",
-                "57"
+                "Christian Witzig • St. Gallen",
+                "61"
             ],
             [
                 "6.",
-                "Olivier Custodio • Lausanne-Sport",
-                "55"
+                "Dominik Schmid • Basel",
+                "59"
             ],
             [
-                "",
-                "Dominik Schmid • Basel",
+                "7.",
+                "Olivier Custodio • Lausanne-Sport",
                 "55"
             ],
             [
                 "8.",
                 "Jordi Quintillà • St. Gallen",
-                "49"
+                "52"
             ],
             [
                 "9.",
-                "Renato Steffen • Lugano",
-                "41"
+                "Luca Zuffi • FC Winterthur",
+                "47"
             ],
             [
                 "10.",
-                "Adrián Guerrero • Zürich",
-                "40"
-            ],
-            [
-                "",
-                "Luca Zuffi • FC Winterthur",
-                "40"
+                "Renato Steffen • Lugano",
+                "45"
             ]
         ]
     },
@@ -1140,17 +1100,17 @@
             [
                 "1.",
                 "Cheick Oumar Conde • Zürich",
-                "28"
+                "33"
             ],
             [
                 "2.",
                 "Amir Abrashi • Grasshopper",
-                "26"
+                "28"
             ],
             [
                 "3.",
                 "Anthony Sauthier • Yverdon-Sport",
-                "24"
+                "26"
             ],
             [
                 "4.",
@@ -1160,32 +1120,32 @@
             [
                 "5.",
                 "Antoine Bernede • Lausanne-Sport",
-                "21"
+                "22"
             ],
             [
                 "",
                 "Nicky Medja • Luzern",
-                "21"
+                "22"
             ],
             [
                 "7.",
-                "Isaac Schmidt • St. Gallen",
-                "19"
+                "Nikola Boranijašević • Zürich",
+                "20"
             ],
             [
                 "8.",
                 "Mattia Zanotti • St. Gallen",
-                "17"
+                "19"
             ],
             [
                 "",
+                "Isaac Schmidt • St. Gallen",
+                "19"
+            ],
+            [
+                "10.",
                 "Ifeanyi Mathew • Zürich",
-                "17"
-            ],
-            [
-                "",
-                "Nikola Boranijašević • Zürich",
-                "17"
+                "18"
             ]
         ]
     },
@@ -1195,7 +1155,7 @@
             [
                 "1.",
                 "Lindrit Kamberi • Zürich",
-                "25"
+                "26"
             ],
             [
                 "2.",
@@ -1204,21 +1164,31 @@
             ],
             [
                 "3.",
+                "Steve Rouiller • Servette FC",
+                "21"
+            ],
+            [
+                "",
                 "Ismajl Beka • Luzern",
                 "21"
             ],
             [
-                "4.",
-                "Steve Rouiller • Servette FC",
+                "5.",
+                "Kristers Tobers • Grasshopper",
                 "19"
             ],
             [
-                "5.",
+                "",
                 "Noë Dussenne • Lausanne-Sport",
-                "18"
+                "19"
             ],
             [
-                "6.",
+                "7.",
+                "Albian Hajdari • Lugano",
+                "17"
+            ],
+            [
+                "",
                 "William Le Pogam • Yverdon-Sport",
                 "17"
             ],
@@ -1228,34 +1198,9 @@
                 "17"
             ],
             [
-                "8.",
-                "Kristers Tobers • Grasshopper",
-                "16"
-            ],
-            [
-                "9.",
-                "David Douline • Servette FC",
-                "15"
-            ],
-            [
-                "",
-                "Nikola Katić • Zürich",
-                "15"
-            ],
-            [
-                "",
-                "Ifeanyi Mathew • Zürich",
-                "15"
-            ],
-            [
-                "",
-                "Albert Vallci • St. Gallen",
-                "15"
-            ],
-            [
                 "",
                 "Isaac Schmidt • St. Gallen",
-                "15"
+                "17"
             ]
         ]
     },
@@ -1265,62 +1210,52 @@
             [
                 "1.",
                 "Kristers Tobers • Grasshopper",
-                "990"
+                "1080"
             ],
             [
                 "",
                 "Nikola Katić • Zürich",
-                "990"
+                "1080"
             ],
             [
                 "",
                 "Pascal Loretz • Luzern",
-                "990"
+                "1080"
             ],
             [
                 "",
                 "Yanick Brecher • Zürich",
-                "990"
-            ],
-            [
-                "",
-                "Albert Vallci • St. Gallen",
-                "990"
+                "1080"
             ],
             [
                 "",
                 "Lawrence Ati-Zigi • St. Gallen",
-                "990"
+                "1080"
             ],
             [
-                "",
-                "Justin Hammel • Grasshopper",
-                "990"
-            ],
-            [
-                "8.",
-                "Ifeanyi Mathew • Zürich",
-                "989"
-            ],
-            [
-                "9.",
+                "6.",
                 "Anthony Sauthier • Yverdon-Sport",
-                "987"
+                "1077"
             ],
             [
-                "10.",
+                "7.",
                 "Lindrit Kamberi • Zürich",
-                "986"
-            ],
-            [
-                "",
-                "Christian Witzig • St. Gallen",
-                "986"
+                "1076"
             ],
             [
                 "",
                 "Jordi Quintillà • St. Gallen",
-                "986"
+                "1076"
+            ],
+            [
+                "9.",
+                "Cheick Oumar Conde • Zürich",
+                "1075"
+            ],
+            [
+                "10.",
+                "Antoine Bernede • Lausanne-Sport",
+                "1072"
             ]
         ]
     },
@@ -1330,21 +1265,66 @@
             [
                 "1.",
                 "Mauro Teixeira • Yverdon-Sport",
-                "8"
+                "9"
             ],
             [
                 "",
                 "Bradley Fink • Grasshopper",
-                "8"
+                "9"
             ],
             [
                 "3.",
+                "Mihailo Stevanovic • St. Gallen",
+                "8"
+            ],
+            [
+                "",
+                "Brighton Labeau • Lausanne-Sport",
+                "8"
+            ],
+            [
+                "",
+                "Fabian Schubert • St. Gallen",
+                "8"
+            ],
+            [
+                "6.",
                 "Sayfallah Ltaief • FC Winterthur",
                 "7"
             ],
             [
                 "",
-                "Mihailo Stevanovic • St. Gallen",
+                "Ivan Santini • Zürich",
+                "7"
+            ],
+            [
+                "",
+                "Samir Ramizi • FC Winterthur",
+                "7"
+            ],
+            [
+                "",
+                "Silvère Ganvoula M'Boussy • Young Boys",
+                "7"
+            ],
+            [
+                "",
+                "Kevin Omoruyi • Yverdon-Sport",
+                "7"
+            ],
+            [
+                "",
+                "Jérémy Guillemenot • Servette FC",
+                "7"
+            ],
+            [
+                "",
+                "Kevin Spadanuda • Luzern",
+                "7"
+            ],
+            [
+                "",
+                "Fabian Rohner • Zürich",
                 "7"
             ],
             [
@@ -1364,83 +1344,8 @@
             ],
             [
                 "",
-                "Brighton Labeau • Lausanne-Sport",
-                "7"
-            ],
-            [
-                "",
-                "Fabian Schubert • St. Gallen",
-                "7"
-            ],
-            [
-                "10.",
-                "Ivan Santini • Zürich",
-                "6"
-            ],
-            [
-                "",
-                "Samir Ramizi • FC Winterthur",
-                "6"
-            ],
-            [
-                "",
-                "Ronny Rodelin • Servette FC",
-                "6"
-            ],
-            [
-                "",
-                "Néhemie Lusuena • Yverdon-Sport",
-                "6"
-            ],
-            [
-                "",
-                "Nikolaj Moller • St. Gallen",
-                "6"
-            ],
-            [
-                "",
-                "Silvère Ganvoula M'Boussy • Young Boys",
-                "6"
-            ],
-            [
-                "",
-                "Kevin Omoruyi • Yverdon-Sport",
-                "6"
-            ],
-            [
-                "",
-                "Mihael Klepac • Yverdon-Sport",
-                "6"
-            ],
-            [
-                "",
-                "Jérémy Guillemenot • Servette FC",
-                "6"
-            ],
-            [
-                "",
-                "Kevin Spadanuda • Luzern",
-                "6"
-            ],
-            [
-                "",
-                "Fabian Rohner • Zürich",
-                "6"
-            ],
-            [
-                "",
-                "Kemal Ademi • Luzern",
-                "6"
-            ],
-            [
-                "",
                 "Roman Buess • FC Winterthur",
-                "6"
-            ],
-            [
-                "",
-                "Cedric Itten • Young Boys",
-                "6"
+                "7"
             ]
         ]
     },
@@ -1450,62 +1355,52 @@
             [
                 "1.",
                 "Keigo Tsunemoto • Servette FC",
-                "2.60"
+                "2.67"
             ],
             [
                 "2.",
-                "Granit Lekaj • FC Winterthur",
-                "2.50"
-            ],
-            [
-                "",
-                "Kreshnik Hajrizi • Lugano",
-                "2.50"
-            ],
-            [
-                "4.",
                 "Cheikh Niasse • Young Boys",
                 "2.43"
             ],
             [
-                "5.",
-                "Anthony Racioppi • Young Boys",
-                "2.33"
-            ],
-            [
-                "",
-                "Joel Monteiro • Young Boys",
-                "2.33"
-            ],
-            [
-                "7.",
-                "Darian Males • Young Boys",
+                "3.",
+                "Kreshnik Hajrizi • Lugano",
                 "2.29"
             ],
             [
-                "8.",
-                "Severin Ottiger • Luzern",
-                "2.25"
-            ],
-            [
-                "9.",
-                "Fabio Daprelà • Zürich",
-                "2.20"
-            ],
-            [
-                "10.",
+                "",
                 "Miroslav Stevanović • Servette FC",
-                "2.17"
+                "2.29"
             ],
             [
                 "",
                 "Alexis Antunes • Servette FC",
-                "2.17"
+                "2.29"
+            ],
+            [
+                "6.",
+                "Anthony Racioppi • Young Boys",
+                "2.20"
             ],
             [
                 "",
-                "Ulisses Garcia • Young Boys",
-                "2.17"
+                "Joel Monteiro • Young Boys",
+                "2.20"
+            ],
+            [
+                "8.",
+                "Darian Males • Young Boys",
+                "2.13"
+            ],
+            [
+                "9.",
+                "Cedric Itten • Young Boys",
+                "2.10"
+            ],
+            [
+                "10.",
+                "Fabio Daprelà • Zürich",
+                "2.09"
             ]
         ]
     },
@@ -1533,12 +1428,7 @@
                 "+14"
             ],
             [
-                "",
-                "Fabio Daprelà • Zürich",
-                "+14"
-            ],
-            [
-                "6.",
+                "5.",
                 "Cheick Oumar Conde • Zürich",
                 "+13"
             ],
@@ -1550,6 +1440,11 @@
             [
                 "",
                 "Yanick Brecher • Zürich",
+                "+13"
+            ],
+            [
+                "",
+                "Fabio Daprelà • Zürich",
                 "+13"
             ],
             [
@@ -1580,52 +1475,52 @@
             [
                 "1.",
                 "Antonio Marchesano • Zürich",
-                "+2.12"
+                "+1.83"
             ],
             [
                 "2.",
-                "Daniel Afriyie • Zürich",
-                "+1.78"
+                "Lewin Blum • Young Boys",
+                "+1.64"
             ],
             [
                 "3.",
-                "Jean-Pierre Nsame • Young Boys",
+                "Daniel Afriyie • Zürich",
                 "+1.63"
             ],
             [
                 "4.",
-                "Granit Lekaj • FC Winterthur",
-                "+1.60"
+                "Jean-Pierre Nsame • Young Boys",
+                "+1.57"
             ],
             [
                 "5.",
                 "Fabio Daprelà • Zürich",
-                "+1.58"
+                "+1.41"
             ],
             [
                 "6.",
-                "Roman Macek • Lugano",
-                "+1.51"
+                "Meschak Elia • Young Boys",
+                "+1.34"
             ],
             [
-                "",
-                "Meschak Elia • Young Boys",
-                "+1.51"
+                "7.",
+                "Jonathan Okita • Zürich",
+                "+1.32"
             ],
             [
                 "8.",
-                "Jonathan Okita • Zürich",
-                "+1.44"
+                "Nikola Boranijašević • Zürich",
+                "+1.27"
             ],
             [
                 "9.",
-                "Nikola Boranijašević • Zürich",
-                "+1.39"
+                "Filip Ugrinic • Young Boys",
+                "+1.22"
             ],
             [
                 "10.",
-                "Filip Ugrinic • Young Boys",
-                "+1.37"
+                "Jamie Roche • Lausanne-Sport",
+                "+1.21"
             ]
         ]
     },
@@ -1638,7 +1533,17 @@
                 "6"
             ],
             [
-                "2.",
+                "",
+                "Noë Dussenne • Lausanne-Sport",
+                "6"
+            ],
+            [
+                "3.",
+                "Christopher Lungoyi • Yverdon-Sport",
+                "5"
+            ],
+            [
+                "",
                 "Silvan Sidler • FC Winterthur",
                 "5"
             ],
@@ -1649,17 +1554,22 @@
             ],
             [
                 "",
-                "Noë Dussenne • Lausanne-Sport",
-                "5"
-            ],
-            [
-                "",
                 "Giovani Bamba • FC Stade Lausanne-Ouchy",
                 "5"
             ],
             [
-                "6.",
+                "7.",
                 "Julian von Moos • St. Gallen",
+                "4"
+            ],
+            [
+                "",
+                "Sayfallah Ltaief • FC Winterthur",
+                "4"
+            ],
+            [
+                "",
+                "Daniel Afriyie • Zürich",
                 "4"
             ],
             [
@@ -1701,6 +1611,16 @@
                 "",
                 "Mohamed Tijani • Yverdon-Sport",
                 "4"
+            ],
+            [
+                "",
+                "Jordi Quintillà • St. Gallen",
+                "4"
+            ],
+            [
+                "",
+                "Fabian Schubert • St. Gallen",
+                "4"
             ]
         ]
     },
@@ -1710,6 +1630,16 @@
             [
                 "1.",
                 "Arnau Comas • Basel",
+                "1"
+            ],
+            [
+                "",
+                "Chris Kablan • Lausanne-Sport",
+                "1"
+            ],
+            [
+                "",
+                "Christopher Lungoyi • Yverdon-Sport",
                 "1"
             ],
             [
@@ -1760,7 +1690,7 @@
             [
                 "1.",
                 "Christian Witzig • St. Gallen",
-                "28"
+                "29"
             ],
             [
                 "2.",
@@ -1769,12 +1699,17 @@
             ],
             [
                 "3.",
-                "Alexandre Jankewitz • FC Winterthur",
-                "22"
+                "Mattia Zanotti • St. Gallen",
+                "24"
             ],
             [
-                "",
-                "Mattia Zanotti • St. Gallen",
+                "4.",
+                "Samuel Ballet • FC Winterthur",
+                "23"
+            ],
+            [
+                "5.",
+                "Alexandre Jankewitz • FC Winterthur",
                 "22"
             ],
             [
@@ -1783,34 +1718,29 @@
                 "22"
             ],
             [
-                "6.",
+                "7.",
+                "Daniel Afriyie • Zürich",
+                "21"
+            ],
+            [
+                "",
                 "Néhemie Lusuena • Yverdon-Sport",
                 "21"
             ],
             [
-                "7.",
-                "Daniel Afriyie • Zürich",
-                "20"
-            ],
-            [
-                "",
-                "Samuel Ballet • FC Winterthur",
-                "20"
-            ],
-            [
                 "9.",
-                "David Douline • Servette FC",
-                "17"
+                "Christopher Lungoyi • Yverdon-Sport",
+                "20"
             ],
             [
-                "",
+                "10.",
                 "Pius Dorn • Luzern",
-                "17"
+                "19"
             ],
             [
                 "",
                 "Florian Danho Seke • FC Stade Lausanne-Ouchy",
-                "17"
+                "19"
             ]
         ]
     },
@@ -1819,63 +1749,53 @@
         "Data": [
             [
                 "1.",
-                "Samuel Ballet • FC Winterthur",
-                "30"
+                "Christopher Lungoyi • Yverdon-Sport",
+                "32"
             ],
             [
                 "2.",
-                "Christopher Lungoyi • Yverdon-Sport",
-                "29"
+                "Samuel Ballet • FC Winterthur",
+                "31"
             ],
             [
-                "",
+                "3.",
                 "Alexandre Jankewitz • FC Winterthur",
                 "29"
             ],
             [
                 "4.",
-                "Christian Witzig • St. Gallen",
-                "23"
+                "Pius Dorn • Luzern",
+                "24"
             ],
             [
-                "",
-                "Pius Dorn • Luzern",
+                "5.",
+                "Christian Witzig • St. Gallen",
                 "23"
             ],
             [
                 "6.",
                 "Lindrit Kamberi • Zürich",
-                "18"
+                "20"
             ],
             [
                 "",
                 "Renato Steffen • Lugano",
-                "18"
+                "20"
             ],
             [
                 "8.",
-                "Martin Frýdek • Luzern",
-                "17"
-            ],
-            [
-                "",
                 "Alvyn Sanches • Lausanne-Sport",
-                "17"
+                "19"
             ],
             [
-                "10.",
-                "Antoine Bernede • Lausanne-Sport",
-                "16"
-            ],
-            [
-                "",
-                "Daniel Afriyie • Zürich",
-                "16"
+                "9.",
+                "Tsiy-William Ndenge • Grasshopper",
+                "18"
             ],
             [
                 "",
-                "Chris Bedia • Servette FC",
-                "16"
+                "Martin Frýdek • Luzern",
+                "18"
             ]
         ]
     },
@@ -1939,6 +1859,11 @@
             ],
             [
                 "4.",
+                "Karlo Letica • Lausanne-Sport",
+                "2"
+            ],
+            [
+                "",
                 "Amir Saipi • Lugano",
                 "2"
             ],
@@ -1948,12 +1873,7 @@
                 "2"
             ],
             [
-                "6.",
-                "Karlo Letica • Lausanne-Sport",
-                "1"
-            ],
-            [
-                "",
+                "7.",
                 "Dany da Silva • FC Stade Lausanne-Ouchy",
                 "1"
             ],
@@ -1985,52 +1905,52 @@
             [
                 "1.",
                 "Yanick Brecher • Zürich",
-                "45.5"
+                "41.7"
             ],
             [
                 "2.",
                 "Anthony Racioppi • Young Boys",
-                "44.4"
+                "40.0"
             ],
             [
                 "3.",
-                "Joël Mall • Servette FC",
+                "Karlo Letica • Lausanne-Sport",
                 "28.6"
             ],
             [
                 "4.",
                 "Pascal Loretz • Luzern",
-                "27.3"
-            ],
-            [
-                "5.",
-                "Amir Saipi • Lugano",
-                "22.2"
-            ],
-            [
-                "6.",
-                "Karlo Letica • Lausanne-Sport",
-                "16.7"
+                "25.0"
             ],
             [
                 "",
+                "Joël Mall • Servette FC",
+                "25.0"
+            ],
+            [
+                "6.",
+                "Amir Saipi • Lugano",
+                "20.0"
+            ],
+            [
+                "7.",
                 "Markus Kuster • FC Winterthur",
                 "16.7"
             ],
             [
                 "8.",
                 "Dany da Silva • FC Stade Lausanne-Ouchy",
-                "11.1"
+                "10.0"
             ],
             [
                 "9.",
-                "Lawrence Ati-Zigi • St. Gallen",
+                "Justin Hammel • Grasshopper",
                 "9.1"
             ],
             [
-                "",
-                "Justin Hammel • Grasshopper",
-                "9.1"
+                "10.",
+                "Lawrence Ati-Zigi • St. Gallen",
+                "8.3"
             ]
         ]
     },
@@ -2040,7 +1960,7 @@
             [
                 "1.",
                 "Pascal Loretz • Luzern",
-                "44"
+                "48"
             ],
             [
                 "2.",
@@ -2048,44 +1968,54 @@
                 "34"
             ],
             [
-                "3.",
+                "",
                 "Kevin Martin • Yverdon-Sport",
-                "32"
+                "34"
             ],
             [
                 "4.",
                 "Yanick Brecher • Zürich",
-                "31"
+                "32"
             ],
             [
                 "5.",
                 "Marwin Hitz • Basel",
-                "26"
+                "31"
             ],
             [
                 "6.",
                 "Anthony Racioppi • Young Boys",
-                "25"
+                "29"
             ],
             [
                 "7.",
                 "Joël Mall • Servette FC",
-                "24"
+                "27"
             ],
             [
                 "8.",
+                "Marvin Keller • 2 squads",
+                "25"
+            ],
+            [
+                "9.",
                 "Lawrence Ati-Zigi • St. Gallen",
                 "22"
             ],
             [
-                "9.",
-                "Amir Saipi • Lugano",
-                "20"
+                "10.",
+                "Dany da Silva • FC Stade Lausanne-Ouchy",
+                "21"
             ],
             [
                 "",
-                "Marvin Keller • 2 squads",
-                "20"
+                "Amir Saipi • Lugano",
+                "21"
+            ],
+            [
+                "",
+                "Karlo Letica • Lausanne-Sport",
+                "21"
             ]
         ]
     },
@@ -2100,17 +2030,17 @@
             [
                 "2.",
                 "Yanick Brecher • Zürich",
-                "78.9"
+                "77.5"
             ],
             [
                 "3.",
                 "Joël Mall • Servette FC",
-                "77.4"
+                "75.0"
             ],
             [
                 "4.",
                 "Pascal Loretz • Luzern",
-                "76.8"
+                "74.6"
             ],
             [
                 "5.",
@@ -2120,25 +2050,25 @@
             [
                 "6.",
                 "Karlo Letica • Lausanne-Sport",
-                "66.7"
+                "70.0"
             ],
             [
-                "",
+                "7.",
                 "Marvin Keller • 2 squads",
-                "66.7"
+                "69.4"
             ],
             [
-                "",
-                "Lawrence Ati-Zigi • St. Gallen",
-                "66.7"
-            ],
-            [
-                "",
+                "8.",
                 "Kevin Martin • Yverdon-Sport",
-                "66.7"
+                "66.0"
             ],
             [
-                "10.",
+                "9.",
+                "Lawrence Ati-Zigi • St. Gallen",
+                "64.7"
+            ],
+            [
+                "",
                 "Jérémy Frick • Servette FC",
                 "64.7"
             ]
@@ -2150,12 +2080,12 @@
             [
                 "1.",
                 "Anthony Racioppi • Young Boys",
-                "0.78"
+                "0.80"
             ],
             [
                 "2.",
                 "Yanick Brecher • Zürich",
-                "0.82"
+                "0.83"
             ],
             [
                 "3.",
@@ -2165,12 +2095,12 @@
             [
                 "4.",
                 "Joël Mall • Servette FC",
-                "1.14"
+                "1.25"
             ],
             [
                 "5.",
-                "Pascal Loretz • Luzern",
-                "1.36"
+                "Karlo Letica • Lausanne-Sport",
+                "1.29"
             ],
             [
                 "6.",
@@ -2179,13 +2109,13 @@
             ],
             [
                 "7.",
-                "Karlo Letica • Lausanne-Sport",
-                "1.50"
+                "Amir Saipi • Lugano",
+                "1.55"
             ],
             [
                 "8.",
-                "Amir Saipi • Lugano",
-                "1.62"
+                "Pascal Loretz • Luzern",
+                "1.58"
             ],
             [
                 "9.",
@@ -2194,18 +2124,8 @@
             ],
             [
                 "10.",
-                "Dany da Silva • FC Stade Lausanne-Ouchy",
-                "2.00"
-            ],
-            [
-                "",
                 "Marvin Keller • 2 squads",
-                "2.00"
-            ],
-            [
-                "",
-                "Kevin Martin • Yverdon-Sport",
-                "2.00"
+                "1.83"
             ]
         ]
     }
